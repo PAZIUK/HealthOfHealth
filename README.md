@@ -1,7 +1,6 @@
 # HealthOfHealth - Project Description <br>
 
 ### About<br/>
-
 The website was created by Serhiy Paziuk for his portfolio. <br/>
 
 ### Website : https://paziuk.github.io/projects/sites/dilemaclothes/index.html  <br/>
