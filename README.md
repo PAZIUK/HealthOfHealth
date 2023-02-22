@@ -3,7 +3,7 @@
 ### About<br/>
 The website was created by Serhiy Paziuk for his portfolio. <br/>
 
-### Website : https://paziuk.github.io/projects/sites/dilemaclothes/index.html  <br/>
+### Website : https://paziuk.github.io/Projects/Sites/HealthOfHealth/index.html  <br/>
 
 ## For creating were used<br/>
 
