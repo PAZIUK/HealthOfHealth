@@ -3,7 +3,7 @@
 ### About<br/>
 Welcome to HealthOfHealth, where we are committed to providing quality healthcare to our patients. Our hospital is equipped with state-of-the-art technology and staffed by experienced medical professionals who are dedicated to delivering personalized care to each patient.<br/>
 
-### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK#-websites)<br/>
 
 ## For creating were used<br/>
 
